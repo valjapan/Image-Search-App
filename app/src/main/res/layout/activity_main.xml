@@ -36,7 +36,7 @@
 
                 <EditText
                     android:id="@+id/search_edit_text"
-                    android:layout_width="match_parent"
+                    android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_gravity="bottom"
                     android:layout_marginBottom="8dp"
@@ -44,6 +44,14 @@
                     android:background="@drawable/flame_style"
                     android:hint="@string/hint"
                     android:inputType="text" />
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="right|center"
+                    android:gravity="center"
+                    android:text="OK" />
             </LinearLayout>
 
         </RelativeLayout>

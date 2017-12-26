@@ -4,14 +4,19 @@ ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.trello:rxlifecycle-components:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-components-0.6.1.aar/68837a94310de6f51f9377abbc6a349d/AndroidManifest.xml:13:1-19:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8c8e6a1f1621a6a838cd31c85fa76033/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:2:1-11:12
+MERGED from [com.trello:rxlifecycle-kotlin:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-kotlin-0.6.1.aar/19f3456d43e9e17d768ac04320b03bd1/AndroidManifest.xml:13:1-19:12
 MERGED from [com.android.support:support-fragment:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c65257d917746c5bae499580fb01bfe2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.trello:rxlifecycle:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-0.6.1.aar/3af3fae908ea14736bfc18d94ece9748/AndroidManifest.xml:13:1-19:12
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a6f7bd1087ae0e97a40409bd0fc95473/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/98250c8c1c5c85b6a3fd7c7926eda9a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f50f9ed0b422b572bb3e728ef16a73b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxbinding-0.4.0.aar/549a083e1dbe1b01f57b018b33a462df/AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxandroid-1.1.0.aar/b092a64d98b2011872ee22f832212811/AndroidManifest.xml:15:1-21:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/753ad1da3ba0c72ed1cf7ae171e20720/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
@@ -68,22 +73,32 @@ uses-sdk
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+MERGED from [com.trello:rxlifecycle-components:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-components-0.6.1.aar/68837a94310de6f51f9377abbc6a349d/AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle-components:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-components-0.6.1.aar/68837a94310de6f51f9377abbc6a349d/AndroidManifest.xml:17:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8c8e6a1f1621a6a838cd31c85fa76033/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8c8e6a1f1621a6a838cd31c85fa76033/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:5:5-7:41
+MERGED from [com.trello:rxlifecycle-kotlin:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-kotlin-0.6.1.aar/19f3456d43e9e17d768ac04320b03bd1/AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle-kotlin:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-kotlin-0.6.1.aar/19f3456d43e9e17d768ac04320b03bd1/AndroidManifest.xml:17:5-44
 MERGED from [com.android.support:support-fragment:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c65257d917746c5bae499580fb01bfe2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c65257d917746c5bae499580fb01bfe2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:20:5-44
+MERGED from [com.trello:rxlifecycle:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-0.6.1.aar/3af3fae908ea14736bfc18d94ece9748/AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle:0.6.1] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxlifecycle-0.6.1.aar/3af3fae908ea14736bfc18d94ece9748/AndroidManifest.xml:17:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a6f7bd1087ae0e97a40409bd0fc95473/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a6f7bd1087ae0e97a40409bd0fc95473/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/98250c8c1c5c85b6a3fd7c7926eda9a2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/98250c8c1c5c85b6a3fd7c7926eda9a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f50f9ed0b422b572bb3e728ef16a73b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f50f9ed0b422b572bb3e728ef16a73b/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxbinding-0.4.0.aar/549a083e1dbe1b01f57b018b33a462df/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxbinding-0.4.0.aar/549a083e1dbe1b01f57b018b33a462df/AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxandroid-1.1.0.aar/b092a64d98b2011872ee22f832212811/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/rxandroid-1.1.0.aar/b092a64d98b2011872ee22f832212811/AndroidManifest.xml:19:5-43
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/753ad1da3ba0c72ed1cf7ae171e20720/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/753ad1da3ba0c72ed1cf7ae171e20720/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
