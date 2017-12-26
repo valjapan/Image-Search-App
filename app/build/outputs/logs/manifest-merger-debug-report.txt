@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8c8e6a1f1621a6a838cd31c85fa76033/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c65257d917746c5bae499580fb01bfe2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a6f7bd1087ae0e97a40409bd0fc95473/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/98250c8c1c5c85b6a3fd7c7926eda9a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f50f9ed0b422b572bb3e728ef16a73b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/753ad1da3ba0c72ed1cf7ae171e20720/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.valkyrie.nabeshimamac.imagesearchapp.MainActivity
+ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8c8e6a1f1621a6a838cd31c85fa76033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8c8e6a1f1621a6a838cd31c85fa76033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/58fcdfe235f551ac7e1c4f568937d660/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c65257d917746c5bae499580fb01bfe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c65257d917746c5bae499580fb01bfe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/642b7264014c951539d1e9ba40141a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a6f7bd1087ae0e97a40409bd0fc95473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a6f7bd1087ae0e97a40409bd0fc95473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/af00c5ded7e342ee304912ca8640aaeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/98250c8c1c5c85b6a3fd7c7926eda9a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/98250c8c1c5c85b6a3fd7c7926eda9a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f50f9ed0b422b572bb3e728ef16a73b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f50f9ed0b422b572bb3e728ef16a73b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/753ad1da3ba0c72ed1cf7ae171e20720/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/NabeshimaMAC/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/753ad1da3ba0c72ed1cf7ae171e20720/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon Dec 25 16:28:23 JST 2017
+base.0=/Users/NabeshimaMAC/AndroidStudioProjects/ImageSearchApp/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

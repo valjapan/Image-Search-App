@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageSearchApp</string>
+    <string name="hint">検索内容を入力</string>
+</resources>
