@@ -63,6 +63,10 @@ class MainActivity : AppCompatActivity() {
 
             } else if (editString == "melon") {
                 melon()
+            } else if (editString == "lit") {
+                lit()
+            } else if (editString == "orange") {
+                orange()
             } else {
                 Toast.makeText(this, "この単語には対応していません。", Toast.LENGTH_SHORT).show()
             }
@@ -84,7 +88,27 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun melon() {
+        client.melonImage()
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe({ item ->
+                    Glide.with(this).load(item.data).into(findView)
+                }, {
+                })
+    }
+
+    private fun orange() {
         client.orangeImage()
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe({ item ->
+                    Glide.with(this).load(item.data).into(findView)
+                }, {
+                })
+    }
+
+    private fun lit() {
+        client.litImage()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe({ item ->

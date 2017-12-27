@@ -12,6 +12,11 @@ interface Client {
     fun appleImage(): Observable<RemoteImage>
 
     @GET("/photo/melon")
+    fun melonImage(): Observable<RemoteImage>
+
+    @GET("/photo/orange")
     fun orangeImage(): Observable<RemoteImage>
 
+    @GET("/photo/lit")
+    fun litImage(): Observable<RemoteImage>
 }
